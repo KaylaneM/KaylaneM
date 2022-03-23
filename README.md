@@ -4,9 +4,8 @@
 
 Kaylane Moreira ♀️, 19, Fortaleza-CE 🙋‍♀️
 
-Estudante da **JavaScript, React, TypeScript** com foco em aprimorar o meu conhecimento e contribuir sempre que possível .
+Estudante de **JavaScript, React e TypeScript** com foco em aprimorar o meu conhecimento e contribuir sempre que possível .
 
-_✨ Learning is continuous and there will always be a next level!_
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylanemoreira&layout=compact&theme=radical" alt="My Github Stats">
 
