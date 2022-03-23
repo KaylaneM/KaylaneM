@@ -1,6 +1,6 @@
 <img src="./assets/ReadyPlayerMe-Avatar.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-# <img src="./img/hi.gif" width="30px"> Hello World! 👾
+# <img src="./assets/hi.gif" width="30px"> Hello World! 👾
 
 Kaylane Moreira ♂️, 19, Fortaleza-CE 🙋
 
@@ -45,7 +45,7 @@ _✨ Learning is continuous and there will always be a next level!_
 <br />
 
 ---
-### - 🎵 _"…And be a simple kind of man"_
+<!-- ### - 🎵 _"…And be a simple kind of man"_ -->
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kaylanem/)
 - 😄 Pronouns: She/Her
