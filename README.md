@@ -15,11 +15,11 @@ _✨ Learning is continuous and there will always be a next level!_
 <!-- [![website](./img/globe-light.svg)](https://kaylanemoreira.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://kaylanemoreira.com#gh-dark-mode-only)
 &nbsp;&nbsp; -->
-[![website](./img/twitter-light.svg)](https://twitter.com/Kaylane_SM#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Kaylane_SM#gh-dark-mode-only)
+[![website](./assets/twitter-light.svg)](https://twitter.com/Kaylane_SM#gh-light-mode-only)
+[![website](./assets/twitter-dark.svg)](https://twitter.com/Kaylane_SM#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kaylanem/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kaylanem/#gh-dark-mode-only)
+[![website](./assets/linkedin-light.svg)](https://www.linkedin.com/in/kaylanem/#gh-light-mode-only)
+[![website](./assets/linkedin-dark.svg)](https://www.linkedin.com/in/kaylanem/#gh-dark-mode-only)
 
 ---
 
