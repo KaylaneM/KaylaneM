@@ -2,7 +2,7 @@
 
 # <img src="./assets/hi.gif" width="30px"> Hello World! 👾
 
-Kaylane Moreira ♂️, 19, Fortaleza-CE 🙋
+Kaylane Moreira ♀️, 19, Fortaleza-CE 🙋
 
 Estudante da **JavaScript, React, TypeScript** com foco em aprimorar o meu conhecimento e contribuir sempre que possível .
 
@@ -16,7 +16,7 @@ _✨ Learning is continuous and there will always be a next level!_
 [![website](./img/globe-dark.svg)](https://kaylanemoreira.com#gh-dark-mode-only)
 &nbsp;&nbsp; -->
 [![website](./assets/twitter-light.svg)](https://twitter.com/Kaylane_SM#gh-light-mode-only)
-[![website](./assets/twitter-dark.svg)](https://twitter.com/Kaylane_SM#gh-dark-mode-only)
+[![website](./assets/twitterdark.svg)](https://twitter.com/Kaylane_SM#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./assets/linkedin-light.svg)](https://www.linkedin.com/in/kaylanem/#gh-light-mode-only)
 [![website](./assets/linkedin-dark.svg)](https://www.linkedin.com/in/kaylanem/#gh-dark-mode-only)
